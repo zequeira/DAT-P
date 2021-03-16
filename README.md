@@ -1,6 +1,6 @@
 # DAT-P: Data Analysis in Python
 
-The file "prepare_analyze_data.py" showcase some statistical analysis executed often on data collected in speech quality assessment studies.
+The file "prepare_analyze_data.py" shows some frequently executed statistical analyses on data collected in speech quality assessment studies.
 The file "csnoisy.results50.csv" represents the speech quality ratings collected from the crowdsourcing listeners, whereas "Lab.sav" are the quality ratings from the listeners in the Laboratory that executed the listening test in an optimal environment.
 This data correspond to the "Group 1" of the study described in [[1]](#1).
 
